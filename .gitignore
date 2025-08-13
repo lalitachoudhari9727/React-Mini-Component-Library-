@@ -1,0 +1,11 @@
+logs
+*.log
+*.zip
+*.local
+.vscode
+.idea
+.git
+.DS_Store
+node_modules
+dist
+.solution
